@@ -1,0 +1,18 @@
+@media (max-width:700px){
+    .header-img img {
+        height: 110px;
+    }
+
+    .content-img img {
+        height: 70px;
+    }
+
+    .person-blog-profile p {
+        margin-right: 170px;
+    }
+    .link-blog p {
+        font-size: 10px;
+        text-align: center;
+        margin-top: 6px;
+    }
+}
